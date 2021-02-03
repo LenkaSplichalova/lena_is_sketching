@@ -1,0 +1,57 @@
+body {
+    color: darkslategrey;
+    background-color: lightcyan;
+    line-height: 1.6;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    margin: 0px;
+}
+
+.foto_logo {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    padding-top: 20px;
+}
+
+.menu {
+    background-color: gainsboro;
+}
+
+.hlavnimenu {
+    margin: 0px;
+    padding: 0px;
+}
+
+.hlavnimenu li {
+    display: inline-block;
+}
+
+.menu a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 20px 30px;
+}
+
+.menu a:hover,
+.menu a:focus,
+.menu a:active  {
+    background-color: lightcyan;
+    color: darkslategrey;
+}
+
+section, header {
+    padding: 50px 50px;
+}
+
+.prvniobrazek {
+    width: 50%;
+}
+
+
+
+footer {
+    background-color: gainsboro;
+    padding: 0.2px 0;
+}
